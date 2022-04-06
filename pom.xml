@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.microservicelab1</groupId>
-    <artifactId>restaurant-service</artifactId>
+    <artifactId>kitchen-service</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <parent>

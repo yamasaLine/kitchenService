@@ -1,4 +1,4 @@
-package com.microservicelab1.restaurantsvc.domain;
+package com.microservicelab1.kitchensvc.domain;
 
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
 
